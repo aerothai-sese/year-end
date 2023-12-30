@@ -169,7 +169,7 @@ def create_operator(data):
 
 	annotations.append(dict(xref='paper', yref='paper', x=0.5, y=0.9,
 	                              xanchor='center', yanchor='top',
-	                              text="AIQ is the winner of 2023 with 115,976 flights.",
+	                              text="AIQ is the winner !!",
 	                              font=dict(family='monospace',
 	                                        size=16,
 	                                        color='rgb(255,255,255)'),
@@ -224,7 +224,7 @@ def create_aircraft(data):
 
 	annotations.append(dict(xref='paper', yref='paper', x=0.5, y=0.9,
 	                              xanchor='center', yanchor='top',
-	                              text="A320 is the most used in 2023 with 214,014 times",
+	                              text="A320 ! (As we thought)",
 	                              font=dict(family='monospace',
 	                                        size=16,
 	                                        color='rgb(255,255,255)'),
